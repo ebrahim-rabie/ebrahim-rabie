@@ -1,0 +1,47 @@
+name: Update GitHub stats SVG
+
+on:
+  schedule:
+    # Runs once a day at 05:00 UTC — adjust as you like
+    - cron: '0 5 * * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [ main ]
+
+jobs:
+  update-svg:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate SVGs
+        env:
+          # ACCESS_TOKEN is a Personal Access Token with `repo` + `read:user` scopes,
+          # added as a repo secret (Settings -> Secrets and variables -> Actions).
+          # The default GITHUB_TOKEN can't read profile-level stats across repos,
+          # which is why a PAT is needed here.
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_USER: ebrahim-rabie
+        run: python generate_svg.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add light_mode.svg dark_mode.svg loc_cache.json
+          git diff --quiet --cached || git commit -m "Update stats SVG [skip ci]"
+          git push

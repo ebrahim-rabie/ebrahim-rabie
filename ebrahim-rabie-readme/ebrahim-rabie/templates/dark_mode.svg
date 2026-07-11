@@ -1,0 +1,61 @@
+<svg width="900" height="580" viewBox="0 0 900 580" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace" font-size="14">
+  <rect width="900" height="580" rx="12" fill="#0d1117" />
+  <rect x="1" y="1" width="898" height="578" rx="11" fill="none" stroke="#30363d" stroke-width="1"/>
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="22" r="6" fill="#27c93f"/>
+  <text x="30" y="40" xml:space="preserve">
+    <tspan x="30" dy="0" fill="#58a6ff">................    .......:::</tspan>
+<tspan x="30" dy="20" fill="#58a6ff">............-=+++=-.    ......</tspan>
+<tspan x="30" dy="20" fill="#58a6ff">:::::::::.:*#*+++====...      </tspan>
+<tspan x="30" dy="20" fill="#58a6ff">::::::::::+*=-:... .-:........</tspan>
+<tspan x="30" dy="20" fill="#58a6ff">:::......:*****=-==:-.........</tspan>
+<tspan x="30" dy="20" fill="#58a6ff">....... .==++**--+*+-.   .....</tspan>
+<tspan x="30" dy="20" fill="#58a6ff">         -===+*+===-:.        </tspan>
+<tspan x="30" dy="20" fill="#58a6ff">          =+*+++**+-          </tspan>
+<tspan x="30" dy="20" fill="#58a6ff">          =##*#*##-           </tspan>
+<tspan x="30" dy="20" fill="#58a6ff">      :=+==+#%%%#+.           </tspan>
+<tspan x="30" dy="20" fill="#58a6ff">...:-=*****+++++++=-.         </tspan>
+<tspan x="30" dy="20" fill="#58a6ff">----==+**##*****#*++--:::.    </tspan>
+<tspan x="30" dy="20" fill="#58a6ff">--+==++++##*##*##*+++++++=:.  </tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+<tspan x="30" dy="20" fill="#58a6ff"></tspan>
+  </text>
+  <text x="340" y="40" xml:space="preserve">
+    <tspan x="340" dy="0" fill="#79c0ff" font-weight="bold">ebrahim@rabie</tspan>
+<tspan x="340" dy="20" fill="#30363d">-------------------</tspan>
+<tspan x="340" dy="20" fill="#7ee787">OS: ..................... </tspan><tspan fill="#e6edf3">Linux / Windows 11</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Host: ................... </tspan><tspan fill="#e6edf3">Zewail City, DSAI Student</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Kernel: ................. </tspan><tspan fill="#e6edf3">AI Engineer 2026.1</tspan>
+<tspan x="340" dy="20" fill="#7ee787">IDE: .................... </tspan><tspan fill="#e6edf3">VSCode</tspan>
+<tspan x="340" dy="20"> </tspan>
+<tspan x="340" dy="20" fill="#30363d">-------------------</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Languages.Programming: .. </tspan><tspan fill="#e6edf3">Python, C++, C, SQL, TypeScript</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Languages.Libraries: .... </tspan><tspan fill="#e6edf3">Pandas, NumPy, scikit-learn, NLTK</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Languages.Frameworks: ... </tspan><tspan fill="#e6edf3">FastAPI, React, TailwindCSS</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Languages.Human: ........ </tspan><tspan fill="#e6edf3">Arabic, English</tspan>
+<tspan x="340" dy="20"> </tspan>
+<tspan x="340" dy="20" fill="#30363d">-------------------</tspan>
+<tspan x="340" dy="20" fill="#d29922" font-weight="bold">GitHub Stats</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Repos: ....... </tspan><tspan fill="#e6edf3">{{repo_count}}  (Contributed: {{contributed_to}})</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Stars: ....... </tspan><tspan fill="#e6edf3">{{stars}}</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Commits: ..... </tspan><tspan fill="#e6edf3">{{commits}}</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Followers: ... </tspan><tspan fill="#e6edf3">{{followers}}</tspan>
+<tspan x="340" dy="20" fill="#e6edf3">Lines of Code: {{loc_total}}  ({{loc_add}}++, {{loc_delete}}--)</tspan>
+<tspan x="340" dy="20"> </tspan>
+<tspan x="340" dy="20" fill="#30363d">-------------------</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Contact.Email: .......... </tspan><tspan fill="#e6edf3">ebrahim.mohamed.rabie2@gmail.com</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Contact.LinkedIn: ....... </tspan><tspan fill="#e6edf3">linkedin.com/in/ebrahim-rabie</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Contact.Portfolio: ...... </tspan><tspan fill="#e6edf3">ebrahim-rabie.github.io/portfolio</tspan>
+  </text>
+</svg>
