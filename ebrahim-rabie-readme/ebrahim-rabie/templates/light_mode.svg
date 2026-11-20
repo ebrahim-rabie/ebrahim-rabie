@@ -40,9 +40,9 @@
 <tspan x="340" dy="20" fill="#7ee787">IDE: .................... </tspan><tspan fill="#f0f6fc">VSCode</tspan>
 <tspan x="340" dy="20"> </tspan>
 <tspan x="340" dy="20" fill="#30363d">-------------------</tspan>
-<tspan x="340" dy="20" fill="#7ee787">Languages.Programming: .. </tspan><tspan fill="#f0f6fc">Python, C++, C, SQL, TypeScript</tspan>
-<tspan x="340" dy="20" fill="#7ee787">Languages.Libraries: .... </tspan><tspan fill="#f0f6fc">Pandas, NumPy, scikit-learn, NLTK</tspan>
-<tspan x="340" dy="20" fill="#7ee787">Languages.Frameworks: ... </tspan><tspan fill="#f0f6fc">FastAPI, React, TailwindCSS</tspan>
+<tspan x="340" dy="20" fill="#7ee787">Languages.Programming: .. </tspan><tspan fill="#f0f6fc">Python, C++, C, SQL</tspan>
+<tspan x="340" dy="20" fill="#7ee787">ML.Stack: .............. </tspan><tspan fill="#f0f6fc">TensorFlow, Keras, scikit-learn</tspan>
+<tspan x="340" dy="20" fill="#7ee787">AI.Engineering: ......... </tspan><tspan fill="#f0f6fc">LangGraph, RAG, FastAPI, pgvector</tspan>
 <tspan x="340" dy="20" fill="#7ee787">Languages.Human: ........ </tspan><tspan fill="#f0f6fc">Arabic, English</tspan>
 <tspan x="340" dy="20"> </tspan>
 <tspan x="340" dy="20" fill="#30363d">-------------------</tspan>
